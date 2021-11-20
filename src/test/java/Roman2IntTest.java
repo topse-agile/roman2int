@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
 
-public class FizzBuzzTest {
+public class Roman2IntTest {
     @Test
     public void testSomething() {
         assertThat(1, is(1));
